@@ -1,0 +1,6 @@
+{
+  "name": "AcademyCare",
+  "description": "A student-led platform promoting medical literacy, health awareness, and community impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
